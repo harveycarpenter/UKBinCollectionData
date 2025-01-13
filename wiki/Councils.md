@@ -242,6 +242,7 @@ This document is still a work in progress, don't worry if your council isn't lis
 - [Stratford Upon Avon Council](#stratford-upon-avon-council)
 - [Stroud District Council](#stroud-district-council)
 - [Sunderland City Council](#sunderland-city-council)
+- [Surrey Heath Borough Council](#surrey-heath-borough-council)
 - [Swale Borough Council](#swale-borough-council)
 - [Swansea Council](#swansea-council)
 - [Swindon Borough Council](#swindon-borough-council)
